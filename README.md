@@ -1,1 +1,1 @@
-# DSWI
+Repositório criado para armazenar as atividades da disciplina de web 1 do curso de ADS do IFPE campus Paulista.
